@@ -10,7 +10,7 @@ redirect_from:
 
 Thanks for visiting my new website! I'm currently a graduate student at the University of California San Diego. I study robotics, and I'm currently looking for an internship starting mid-June 2020.
 
-Check out my blog posts! I post some handy resources there.
+Make sure to check out my blog posts! I post some handy resources there.
 
 My résumé is linked in the tab above, if you're curious about my past experiences. But if you're still reading this, I'm betting it's because you want to know something about me that won't be on that piece of paper. Here we go.
 
