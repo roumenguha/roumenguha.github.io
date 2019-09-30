@@ -227,24 +227,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _tutorials
-  - scope:
-      path: ""
-      type: tutorials
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _cheatsheets
-  - scope:
-      path: ""
-      type: cheatsheets
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _portfolio
   - scope:
       path: ""
