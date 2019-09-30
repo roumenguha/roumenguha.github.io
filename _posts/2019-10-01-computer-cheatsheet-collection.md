@@ -33,6 +33,8 @@ Here's a collection of my favorite computer science cheatsheets and tutorials.
 
 [LaTeX](https://app.box.com/s/g2bxxletwsfn0w5cupy7hsnrmomacp46 )
 
-If one of these cheatsheets is out of date, you can send me an email with a link to the updated version via my email address. Similarly, if you find an error, please email both me and the author of the cheatsheet. 
+If any of these cheatsheets is out of date, you can send me an email with a link to the updated version via my email address. Similarly, if you find an error, please email both me and the author of the cheatsheet. 
 
 If several of these cheatsheets are outdated, please send me a gentle reminder to update them. Any effort on top of this will have my gratitude. 
+
+Note that you may have trouble trying to use these links on a mobile device.
