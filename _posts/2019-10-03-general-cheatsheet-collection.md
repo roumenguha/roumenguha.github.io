@@ -1,6 +1,6 @@
 ---
 title: 'General Engineering Cheatsheet Collection'
-date: 2019-09-30
+date: 2019-10-03
 permalink: /posts/cheatsheets/generalengineering
 tags:
   - General Engineering
