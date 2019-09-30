@@ -8,4 +8,4 @@ date: 2017-09-06
 location: "Madison, Wisconsin"
 ---
 
-Assisted Professor Barry Van Veen in teaching ECE 203 — Signals, Information, and Computation.
+Assisted [__Professor Barry Van Veen__](https://vanveen.ece.wisc.edu ) in teaching [__ECE 203 — Signals, Information, and Computation__](https://voices.uchicago.edu/willett/teaching/ece-203-fall-2016-signals-information-and-computation/ ).
