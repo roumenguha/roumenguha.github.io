@@ -15,12 +15,6 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Tutorials"
-    url: /tutorials/
-    
-  - title: "Cheatsheets"
-    url: /cheatsheets/
-    
   - title: "CV"
     url: /files/roumenguha_CV.pdf
     # url: /cv/
