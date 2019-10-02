@@ -6,8 +6,8 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
 
   - title: "Teaching"
     url: /teaching/    
@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /files/roumenguha_CV.pdf
+    url: /files/roumenguha_cv.pdf
     # url: /cv/
     
 #  - title: "Guide"
