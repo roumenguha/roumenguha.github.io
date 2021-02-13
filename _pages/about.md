@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /info/
+  - /info.html
 ---
 
 Thanks for visiting my new website! I'm currently a graduate student at the University of California San Diego. I study robotics, and I'm currently looking for an internship starting mid-June 2020.
@@ -21,3 +23,5 @@ I want to use robotics to perform tasks that humans can't or won't. Tasks such a
 But that's not all! The way a skilled doctor can diagnose issues with muscles or bones from observing you walk, or a neurological disorder from watching you sign your name, I believe algorithms can be written to do the same. 
 
 To these ends, I intend to learn about distributed robotics, machine perception, and motion planning.
+
+In my spare time, I enjoy visiting other places. Please see a list of the countries I've visited [here](https://www.amcharts.com/visited_countries/#FR,GB,CA,US,KH,HK,IN,ID,JP,MY,SG,LK,TW,TH,AU).
